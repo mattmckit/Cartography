@@ -3,5 +3,7 @@
 
 #### Data link: https://drive.google.com/drive/folders/1Hw8raki8bHzaBt_Tyy-PT_varWwQGDVk?usp=sharing
 
+#### Workshop survey: https://www.surveymonkey.ca/r/sfu-gis 
+
 
 ## Created by Matthew McKitrick 2020-08-04
